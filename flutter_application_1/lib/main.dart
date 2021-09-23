@@ -13,7 +13,7 @@ class HomePage extends StatelessWidget {
             image: AssetImage('assets/poster.jpg'),
             width: MediaQuery.of(context).size.width,
             height: MediaQuery.of(context).size.height,
-            fit: BoxFit.cover,
+            //fit: BoxFit.cover,
           ),
         ) 
     );
